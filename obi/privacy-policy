@@ -1,0 +1,311 @@
+Privacy Policy
+Last Updated: 9/2/2025
+Effective Date: 9/2/2025
+Our Privacy Commitment
+Your privacy is critically important to us. At OBI, we follow a few fundamental principles:
+
+We're thoughtful about the personal information we ask you to provide and the information we collect through our Services.
+We store personal information only as long as we have a reason to keep it.
+We give you controls over your information, including how it's shared and how to delete it.
+We protect against overbroad government requests for data.
+We aim for full transparency about how we gather, use, and share information.
+This Privacy Policy explains what we collect, how we use it, and the choices you have.
+
+Table of Contents
+Who We Are and What This Policy Covers
+Information We Collect
+How and Why We Use Information
+Sharing Information
+Information You Choose to Share
+How Long We Keep Information
+Security
+Your Choices
+Your Rights
+How to Reach Us
+Who We Are and What This Policy Covers
+OBI provides software and services that help individuals and organizations manage properties and household information—documents, warranties, maintenance schedules, service provider information, and related tasks.
+
+This Privacy Policy applies to information we collect when you use:
+
+Our websites (including heyobi.com and app.heyobi.com), and any other sites we own and operate that link to this policy.
+Our web and mobile applications, APIs, and related Services.
+Our communications with you (e.g., support and sales).
+Throughout this policy, we call all of these "Services."
+
+Information We Collect
+We collect information only when we have a legitimate reason—for example, to provide and improve our Services, to communicate with you, to secure our systems, or to comply with law. We collect information in three ways: you provide it to us; we collect it automatically when you use the Services; and we receive it from third parties.
+
+Information You Provide to Us
+Account information
+When you create an account, we collect your email address and a password (or use passkeys/magic links, if enabled). You may optionally provide your name and contact details.
+
+Property & household data
+Within the Services you may store information related to properties (e.g., addresses), rooms, items/inventory, documents (warranties, manuals, leases, receipts), tasks, photos, service providers, and notes. You control what you upload.
+
+Payment information
+If you purchase a subscription or other paid features, we collect payment-related information via our payment processor (e.g., Stripe). We receive limited details (e.g., billing name, last4, status) but do not store full card numbers.
+
+Communications
+When you contact support, respond to surveys, or sign up for updates, we collect your contact information and the content of your communications (including call recordings where permitted by law).
+
+Job applicants
+If you apply for a role, we process typical applicant data (e.g., resume/CV, contact information) and any optional demographic info you choose to provide where permitted by law.
+
+Information We Collect Automatically
+Log and device data
+Like most services, we collect standard logs (IP address, browser type, referring/exit pages, timestamps), device identifiers, operating system, and app version.
+
+Usage data
+We collect information about how you use the Services (e.g., page views, feature usage, clicks, error reports) to provide, secure, and improve the Services.
+
+Location data
+We may derive approximate location from your IP address. If you use a mobile app and grant permission, we may access precise location for features that require it.
+
+Stored content access
+If you grant our mobile app permission (e.g., photos/camera), we may access that content solely to perform the requested action (like uploading a document photo).
+
+Cookies and similar technologies
+We use cookies, local storage, and pixel tags to operate the Services, remember preferences, enable sign-in, measure performance, understand marketing effectiveness, and—on our marketing sites—support limited advertising or retargeting. See our Cookie Policy for details and controls.
+
+OBI-Powered Processing
+Document Intelligence
+When you upload documents (warranties, manuals, receipts), we use AI services (OpenAI, Anthropic, Groq) to extract and structure information. These processors may temporarily access document content solely to perform extraction tasks.
+
+Vision Processing
+Photos of items or documents may be processed using AI vision models to identify products, extract text, or categorize items.
+
+Intelligent Suggestions
+We analyze property data to provide maintenance recommendations, routine suggestions, and predictive insights using machine learning models.
+
+AI Chat Features
+If you use our AI assistant features, your queries and property context may be processed by third-party AI providers under strict data processing agreements.
+
+Information from Other Sources
+Single sign-on (SSO)
+If you sign in with a third-party identity provider (e.g., Google/Apple), we receive basic account info per that provider's authorization.
+
+Connected services
+If you choose to connect third-party services (e.g., calendar, file storage, or home-automation integrations), we access the data necessary to provide the integration as authorized by you.
+
+Payment processors and partners
+We receive limited info from payment processors (e.g., Stripe) and analytics/marketing partners consistent with your settings and applicable law.
+
+How and Why We Use Information
+We use information for the following purposes:
+
+Provide and operate the Services
+Account setup, authentication, property data storage, document upload/processing, search, reminders, and customer support.
+
+Process payments
+Billing, fraud prevention, and transaction support.
+
+Improve, personalize, and develop the Services
+Monitoring performance, debugging, usage analytics, research, and feature development.
+
+Safety and security
+Detecting and preventing abuse, spam, fraud, and security incidents; protecting our rights and the rights of others.
+
+Communications
+Service-related messages (e.g., receipts, account notices) and—where permitted—product updates and marketing. You can opt out of marketing any time.
+
+Legal compliance
+Complying with applicable laws, lawful requests, and enforcement of our terms.
+
+Recruiting
+Evaluating job applicants and managing hiring processes.
+
+Legal Bases for Processing (For residents of the EEA, UK, and Switzerland)
+Where GDPR/UK GDPR applies, we process personal data based on:
+
+Performance of contract:Account creation, subscription management, core platform features
+Legitimate interests:Security monitoring, fraud prevention, product improvements, service communications
+Consent:Marketing emails, certain cookies, AI-powered features (where required)
+Legal obligation:Tax records, regulatory compliance
+Sharing Information
+We share information about you only in limited circumstances, with appropriate safeguards:
+
+Service providers (processors)
+Trusted vendors that perform services for us. They are bound by contractual privacy and security commitments. Key providers include:
+
+Infrastructure
+Vercel (hosting), Supabase (database/authentication)
+
+AI Processing
+OpenAI, Anthropic, Groq (document/text processing)
+
+Communications
+Twilio (SMS), Postmark (email)
+
+Payments
+Stripe (subscription processing)
+
+Calendar
+Google Calendar API (if connected)
+
+Smart Home
+Home Assistant (if integrated)
+
+Affiliates
+We may share with our corporate affiliates where necessary to provide the Services in accordance with this policy.
+
+Compliance and legal requests
+In response to valid legal process, to comply with law, or to protect the rights, property, or safety of OBI, our users, or the public.
+
+Business transfers
+In connection with a merger, acquisition, financing, or sale of all or a portion of our business. We will continue to protect your information and notify you of any material changes.
+
+With your direction
+You can choose to share property data with household members, co-owners, property managers, or service providers, or enable third-party integrations; in those cases we share data as you direct.
+
+Aggregated/De-identified data
+We may share aggregated or de-identified information that cannot reasonably be used to identify you.
+
+What we don't do
+We don't make your OBI content public, and we don't sell personal information for money.
+
+Information You Choose to Share
+OBI is private by default. You may invite others (e.g., family members, co-owners, property managers) to collaborate on a property or share specific items or documents. You control those permissions within the product. Content you intentionally share may be visible to those recipients according to the access you grant.
+
+Property Sales and Transfers
+If you sell or transfer a property, you control whether to transfer associated OBI data to the new owner. We do not automatically share property data with new owners without your explicit instruction.
+
+How Long We Keep Information
+We retain personal information only as long as needed for the purposes described above or as required by law. Specific retention periods include:
+
+Logs
+Typically retained ~30 days for security and diagnostics
+
+AI Processing
+Temporary processing data deleted within 24 hours
+
+Document extractions
+Retained while account active
+
+Deleted items
+Soft-deleted for 30 days (recoverable), then permanently removed
+
+Financial records
+7 years per legal requirements
+
+Support conversations
+2 years or as legally required
+
+Account and property data
+Persists while your account is active. If you delete content or close your account, we will delete or anonymize data within a reasonable period, though residual copies may remain in backups for a limited time.
+
+Security
+We use technical and organizational measures to protect information against unauthorized access, use, alteration, or destruction:
+
+Encryption
+TLS 1.3 in transit, AES-256 at rest
+
+Authentication
+Supabase Auth with secure session management
+
+Row-Level Security (RLS)
+Database-level access controls
+
+API Security
+Rate limiting and authentication on all endpoints
+
+Regular audits
+Automated dependency scanning and security updates
+
+No system is 100% secure, but we continually improve our safeguards and monitor for potential vulnerabilities and attacks. Where available, we encourage enabling stronger authentication.
+
+Your Choices
+Profile & content controls
+You can access, edit, export, or delete many data types in your account settings.
+
+Property data portability
+Export your complete property data including documents, items, and maintenance history in standard formats (JSON, CSV, PDF).
+
+Selective sharing
+Share specific rooms, items, or documents with service providers or family members without granting full access.
+
+Integration disconnection
+Revoke access to connected services (calendar, smart home) at any time.
+
+Marketing opt-out
+Unsubscribe via the link in our emails or manage preferences in your account.
+
+Cookies
+Manage cookie preferences via browser settings and our Cookie Policy.
+
+Mobile permissions
+Use your device settings to revoke access to camera, photos, location, etc.
+
+Close your account
+You may request account closure. We may retain certain information as needed for legal compliance, dispute resolution, or legitimate business purposes (see "How Long We Keep Information").
+
+Your Rights
+Depending on where you live, you may have rights regarding your personal data.
+
+GDPR/UK GDPR (For residents of the EEA, UK, and Switzerland)
+Subject to legal limits, you may:
+
+Request access to, correction of, or deletion of your personal data
+Object to or request restriction of certain processing
+Request data portability
+Withdraw consent where processing is based on consent
+You also have the right to lodge a complaint with your supervisory authority.
+
+US State Privacy Laws (e.g., CA/CO/CT/VA/UT)
+Subject to exemptions, you may:
+
+Request access to the categories and specific pieces of personal information we collect about you
+Request deletion or correction
+Request portability
+Opt out of "sale"/"sharing" for targeted advertising where applicable
+Be free from discrimination for exercising your rights
+Notice at Collection (US states that require it):
+
+In the past 12 months, we have collected identifiers (e.g., name, email, device IDs), commercial information (billing history), internet/network activity (usage analytics), geolocation (approximate IP-based), and inferences (e.g., product interest). We collect and use these categories for the purposes described in "How and Why We Use Information," share them with service providers as described in "Sharing Information," and retain them as described in "How Long We Keep Information."
+
+Right to Opt Out of "Sale/Share":
+
+We do not sell personal information for money. On marketing sites, we may share limited identifiers and usage data with advertising/analytics partners, which some laws may define as a "sale" or "sharing" for targeted advertising. You can opt out via the "Do Not Sell or Share My Personal Information" link (where available) and we honor the Global Privacy Control (GPC) signal.
+
+California Residents - Additional Rights
+Shine the Light:California residents may request information about disclosures to third parties for direct marketing. We do not disclose personal information to third parties for their direct marketing purposes.
+Financial Incentives:We do not offer financial incentives in exchange for personal information.
+To exercise rights, see How to Reach Us below. We will take reasonable steps to verify your request (and may request additional information). You may authorize an agent where permitted by law.
+
+Appeals (where applicable): If we deny your request, you may appeal by replying to our denial notice. We will have a different reviewer assess your appeal and respond within the required timeline.
+
+Biometric Information
+We do not intentionally collect biometric identifiers. If photos contain people, our AI focuses on property items and documents, not facial recognition.
+
+International Data Transfers
+OBI operates globally, with data processing primarily in the United States and regions where our infrastructure providers operate (various Supabase regions). When we transfer personal data internationally, we use appropriate safeguards (e.g., Standard Contractual Clauses) and implement supplementary measures as needed. You can contact us for more information about specific transfer mechanisms.
+
+Third-Party Services
+Ads and Analytics Provided by Others
+On our marketing sites (e.g., heyobi.com), third parties may provide analytics and, in limited cases, advertising services. These providers may set cookies or use similar technologies to collect information about your use of our sites and other websites to understand usage and (where permitted) deliver or measure ads. This policy covers OBI's practices, not those of third parties—please review their policies and use our cookie controls to manage preferences.
+
+Third-Party Software and Integrations
+If you enable third-party integrations (e.g., calendar, cloud storage, or home-automation platforms), those providers' terms and privacy practices apply to the data they receive. We recommend reviewing each third party's policies before enabling integrations.
+
+Children's Privacy
+Age Restriction Notice
+
+Our Services are not directed to children under the age where parental consent is required by local law (e.g., under 13 in the US), and we do not knowingly collect personal information from such children. If you believe a child has provided personal information, please contact us so we can take appropriate action.
+
+Controllers and How to Reach Us
+Unless stated otherwise, OBI Holdings, Inc. is the controller of personal information processed in connection with the Services.
+
+Email
+your-privacy@heyobi.com
+Data Protection Officer
+your-dpo@heyobi.com(if applicable)
+Postal Mail
+OBI Holdings, Inc.
+1300 El Camino Real Suite 100, Menlo Park, CA 94025
+
+If you are in the EEA/UK and wish to contact us about GDPR matters (including SCCs or representative information), please email your-privacy@heyobi.com.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. If we make material changes, we will provide notice (for example, by email, an in-app notice, or posting a notice on our sites) and indicate the effective date. Your continued use of the Services after the effective date indicates acceptance of the updated policy.
+
+Translation
+This policy was written in English (US). If translated, the English version controls in case of conflict.
